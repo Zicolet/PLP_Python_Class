@@ -1,2 +1,2 @@
 # PLP_Python_Class
-PLP Cohort 4 Class
+This is my Python learning repo in PLP Cohort 4 Class
